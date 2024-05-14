@@ -7,8 +7,8 @@
   "image": "heroku/python",
   "formation": {
     "worker": {
-      "quantity": 1,
-      "size": "eco"
+      "quantity": eco,
+      "size": "1"
     }
   },
   "env": {
